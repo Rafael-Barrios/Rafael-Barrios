@@ -17,12 +17,12 @@ Aquí te presento algunas de las tecnologías en las que estoy certificado:
 ---
 #### Desarrollo Web
 ![JavaScript](https://img.shields.io/badge/%20-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E1E1E) 
-![TypeScript](https://img.shields.io/badge/%20-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E1E1E)  
+![TypeScript](https://img.shields.io/badge/%20-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E1E1E) 
 ![HTML5](https://img.shields.io/badge/%20-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E1E1E) 
 [![CSS](https://img.shields.io/badge/%20-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=1E1E1E)](https://www.w3.org/Style/CSS/)
 ![React](https://img.shields.io/badge/%20-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1E1E) 
 ![Angular](https://img.shields.io/badge/%20-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1E1E1E) 
-![Node.js](https://img.shields.io/badge/%20-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E1E) 
+![Node.js](https://img.shields.io/badge/%20-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E1E)  
 ![PHP](https://img.shields.io/badge/%20-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1E1E1E) 
 ![Laravel](https://img.shields.io/badge/%20-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1E1E1E) 
 
